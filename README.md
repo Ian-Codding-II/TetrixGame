@@ -29,7 +29,7 @@ brew install cmake qt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ian-codding-ii/TetrixGame.git
+   git clone https://github.com/Ian-Codding-II/TetrixGame.git
    cd TetrixGame
    ```
 2. Create a build directory:
@@ -59,6 +59,9 @@ brew install cmake qt
    ```bash
    TetrixGame.exe
    ```
+
+## For Beginners
+If you’re new to programming and want to understand how this game works, check out [README_PSEUDOCODE.md](README_PSEUDOCODE.md). It explains the game’s logic in simple steps using pseudocode, so you can recreate it in any programming language.
 
 ## Notes
 
