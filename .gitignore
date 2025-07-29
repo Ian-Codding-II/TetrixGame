@@ -1,0 +1,22 @@
+# Build directories and files
+build/
+*.o
+*.a
+*.so
+*.exe
+TetrixGame
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# CMake temporary files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Other temporary files
+*.swp
+*.swo
+*.log
